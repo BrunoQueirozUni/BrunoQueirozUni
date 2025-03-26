@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently learning Lua<br>📖 Computer Science
+💻 I'm currently learning Python<br>📖 Computer Science
 
 
 ## 🌐 Socials:
